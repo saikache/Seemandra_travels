@@ -1,0 +1,9 @@
+
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: see_development
+  pool: 5
+  username: postgres
+  password: password
+
